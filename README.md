@@ -4,14 +4,14 @@
 
 ```py
 
-# Sobre Mim
+# About Me
 
 from raff0w import info
 
 class AboutMe(info):
     nome = "raff0w"
-    language that i'm learning = "python"
-    project that i'm learning = "discord.py"
+    learninglanguage = "python"
+    learningproject = "discord.py"
    ``` 
 
 
